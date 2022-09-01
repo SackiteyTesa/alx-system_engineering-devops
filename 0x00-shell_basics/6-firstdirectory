@@ -1,2 +1,3 @@
 #!/bin/bash
-mkdir tmp/my_first_directory
+mkdir alx-system_engineering-devops/tmp/my_first_directory
+
